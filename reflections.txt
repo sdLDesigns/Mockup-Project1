@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+The most important skill I've learned so far is to seek information, and to ask for help. Nothing has been too easy but, conversely nothing has been too hard. If I'm being honest the most difficult part so far is remembering the HTML elements and the syntax. I used the trial and error method of getting through this first project. I learned by testing and then correcting things I knew I could make better. 
